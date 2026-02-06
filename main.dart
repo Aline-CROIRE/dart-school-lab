@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:async';
 
 // ===============================
-// TERMINAL COLORS (TEXT ONLY)
+// TERMINAL COLORS 
 // ===============================
 const reset = "\x1B[0m";
 const green = "\x1B[32m";
