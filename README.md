@@ -13,7 +13,6 @@
 - [Installation Instructions](#installation-instructions)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Color-Coding in Console](#color-coding-in-console)
 - [Submission Guidelines](#submission-guidelines)
 - [Authors](#authors)
 - [License](#license)
@@ -68,7 +67,7 @@ The table below lists each lab question, its implementation in the system, and l
 
 All handwritten summaries for questions Q1-Q20 are compiled in a single PDF document:
 
-**[ Download Complete Scanned Report (PDF)](screenshots/Dart%20programming%20lab1%20report.pdf)**
+**[ Download Complete Scanned Report (PDF)](screenshots/scanned_report.pdf)**
 
 ---
 
@@ -88,7 +87,7 @@ All handwritten summaries for questions Q1-Q20 are compiled in a single PDF docu
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/GaetanL90/dart-school-lab.git
+   git clone https://github.com/Aline-CROIRE/dart-school-lab.git
    cd dart-school-lab
    ```
 
@@ -157,18 +156,7 @@ dart-school-lab/
 
 ---
 
-##  Color-Coding in Console
 
-The system uses **ANSI color codes** for better visual experience:
-
-| Color | Usage | Example |
-|-------|-------|---------|
-| 🟢 **Green** | Success messages | Attendance marked, registration successful |
-| 🟡 **Yellow** | Notifications | Student added, course registered |
-| 🔴 **Red** | Errors or invalid inputs | Invalid menu choice, missing data |
-| 🔵 **Blue/Cyan/Magenta** | Headers / Menus | Section titles, menu options |
-
----
 
 ##  Submission Guidelines
 
@@ -215,7 +203,7 @@ Following these steps ensures the project is ready for assessment.
 This project is created for **educational purposes** as part of **Dart Programming Lab 1**.
 
 ```
-Copyright (c) 2026 Aline NIYONIZERA & Gaetan UWIZEYIMANA
+Copyright © 2026 Aline NIYONIZERA & Gaetan UWIZEYIMANA
 
 Permission is hereby granted to use this software for educational purposes only.
 ```
