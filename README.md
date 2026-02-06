@@ -187,15 +187,15 @@ The system uses **ANSI color codes** for better visual experience:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/<Aline-CROIRE>">
-        <img src="https://github.com/identicons/<Aline-CROIRE>.png" width="100px;" alt="Aline NIYONIZERA"/>
+      <a href="https://github.com/Aline-CROIRE">
+        <img src="https://github.com/identicons/Aline-CROIRE.png" width="100px;" alt="Aline NIYONIZERA"/>
         <br />
         <sub><b>Aline NIYONIZERA</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/<GaetanL90>">
-        <img src="https://github.com/identicons/<GaetanL90>.png" width="100px;" alt="Gaetan UWIZEYIMANA"/>
+      <a href="https://github.com/GaetanL90">
+        <img src="https://github.com/identicons/GaetanL90.png" width="100px;" alt="Gaetan UWIZEYIMANA"/>
         <br />
         <sub><b>Gaetan UWIZEYIMANA</b></sub>
       </a>
@@ -205,12 +205,12 @@ The system uses **ANSI color codes** for better visual experience:
 
 ---
 
-## 📄 License
+##  License
 
 This project is created for **educational purposes** as part of **Dart Programming Lab 1**.
 
 ```
-Copyright (c) 2024 Aline NIYONIZERA & Gaetan UWIZEYIMANA
+Copyright (c) 2026 Aline NIYONIZERA & Gaetan UWIZEYIMANA
 
 Permission is hereby granted to use this software for educational purposes only.
 ```
