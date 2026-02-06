@@ -188,20 +188,21 @@ The system uses **ANSI color codes** for better visual experience:
   <tr>
     <td align="center">
       <a href="https://github.com/Aline-CROIRE">
-        <img src="https://github.com/identicons/Aline-CROIRE.png" width="100px;" alt="Aline NIYONIZERA"/>
+        <img src="https://github.com/Aline-CROIRE.png" width="100px;" alt="Aline NIYONIZERA"/>
         <br />
         <sub><b>Aline NIYONIZERA</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/GaetanL90">
-        <img src="https://github.com/identicons/GaetanL90.png" width="100px;" alt="Gaetan UWIZEYIMANA"/>
+        <img src="https://github.com/GaetanL90.png" width="100px;" alt="Gaetan UWIZEYIMANA"/>
         <br />
         <sub><b>Gaetan UWIZEYIMANA</b></sub>
       </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
