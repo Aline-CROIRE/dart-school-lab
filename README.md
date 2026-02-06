@@ -16,6 +16,7 @@
 - [Submission Guidelines](#submission-guidelines)
 - [Authors](#authors)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -25,13 +26,21 @@ This is a **console-based School Management System** built in **Dart** to demons
 
 The system allows users to:
 
--  Create students and teachers
+- Create students and teachers
 - Mark attendance and track courses
 - View a student dashboard
 - Register courses with notifications
 - Demonstrate collections, anonymous/arrow functions, and async programming
 
 It covers all lab questions (Q1–Q20) with clear examples, proper structure, and an **interactive menu-based UI**.
+
+## Features
+
+- **Console-based, menu-driven UI** for easy navigation.
+- **Student and teacher management** (creation, listing, and basic info).
+- **Attendance tracking** with mixins for reusable behavior.
+- **Course registration** with notification support.
+- **Collections, anonymous functions, arrow functions, and async/await** demonstrated via dedicated menu options.
 
 ---
 
