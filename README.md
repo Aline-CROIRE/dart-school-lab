@@ -76,7 +76,7 @@ The table below lists each lab question, its implementation in the system, and l
 
 All handwritten summaries for questions Q1-Q20 are compiled in a single PDF document:
 
-**[ Download Complete Scanned Report (PDF)](screenshots/scanned_report.pdf)**
+**[ Download Complete Scanned Report (PDF)](screenshots/Dart%20programming%20lab1%20report.pdf)**
 
 ---
 
@@ -160,7 +160,7 @@ dart-school-lab/
    ├─ q3.jpeg
    ├─ ...
    ├─ q20.jpeg
-   └─ scanned_report.pdf        # Complete handwritten report (Q1-Q20)
+   └─ Dart programming lab1 report.pdf   # Complete handwritten report (Q1-Q20)
 ```
 
 ---
@@ -174,7 +174,7 @@ To ensure your project meets all lab requirements:
 - [ ] Make sure your **GitHub repository is public**
 - [ ] Include `main.dart` and `README.md`
 - [ ] Add **screenshots** (`.jpeg` format) for each question Q1-Q20 in the `screenshots/` folder
-- [ ] Add **scanned handwritten report** as a single PDF (`scanned_report.pdf`) in the `screenshots/` folder
+- [ ] Add **scanned handwritten report** as a single PDF (`Dart programming lab1 report.pdf`) in the `screenshots/` folder
 - [ ] Create a **Word document** compiling all screenshots for submission
 - [ ] Test the program to ensure all features work correctly
 - [ ] Verify all links in the README are functional
