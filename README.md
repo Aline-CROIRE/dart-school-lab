@@ -68,9 +68,9 @@ The table below lists each lab question, its implementation in the system, and l
 | **Q15** | Arrow function demo | ![Q15 Screenshot](screenshots/q15.jpeg) |
 | **Q16** | Async function `loadStudents()` | ![Q16 Screenshot](screenshots/q16.jpeg) |
 | **Q17** | Await call in `main()` | ![Q17 Screenshot](screenshots/q17.jpeg) |
-| **Q18** | Handwritten explanation of mixins vs inheritance | N/A |
+| **Q18** | Handwritten explanation of mixins vs inheritance | ![Q18 Screenshot](screenshots/q18.jpeg) |
 | **Q19** | `NotificationMixin` demo | ![Q19 Screenshot](screenshots/q19.jpeg) |
-| **Q20** | Handwritten paragraph: Dart & Flutter | N/A |
+| **Q20** | Handwritten paragraph: Dart & Flutter | ![Q20 Screenshot](screenshots/q20.jpeg)|
 
 ### Handwritten Reports
 
