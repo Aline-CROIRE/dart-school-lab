@@ -7,16 +7,16 @@
 
 ## Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Features](#-features)
-- [Lab Questions Coverage](#-lab-questions-coverage--placeholders)
-- [Installation Instructions](#-installation-instructions)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Color-Coding in Console](#-color-coding-in-console)
-- [Submission Guidelines](#-submission-guidelines)
-- [Authors](#-authors)
-- [License](#-license)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Lab Questions Coverage](#lab-questions-coverage)
+- [Installation Instructions](#installation-instructions)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Color-Coding in Console](#color-coding-in-console)
+- [Submission Guidelines](#submission-guidelines)
+- [Authors](#authors)
+- [License](#license)
 
 ---
 
@@ -232,8 +232,6 @@ Permission is hereby granted to use this software for educational purposes only.
 
 <div align="center">
 
-
-
-[⬆ Back to Top](#-dart-school-management-system)
+[⬆ Back to Top](#dart-school-management-system)
 
 </div>
