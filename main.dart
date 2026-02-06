@@ -266,19 +266,4 @@ Future<void> main() async {
         demoInheritance();
         break;
 
-      case '10':
-        header("Q13: Student Map");
-        studentMap.forEach((id, s) {
-          print("ID: $id -> ${s.name}");
-        });
-        break;
-
-      case '11':
-        print("\nGoodbye ");
-        exit(0);
-
-      default:
-        print("$red Invalid option$reset");
-    }
-  }
-}
+  
