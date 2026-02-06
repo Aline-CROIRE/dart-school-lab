@@ -97,7 +97,7 @@ The table below lists each lab question, its implementation in the system, and p
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/<your-username>/dart-school-lab.git
+   git clone https://github.com/Aline-CROIRE/dart-school-lab.git
    cd dart-school-lab
    ```
 
@@ -155,11 +155,11 @@ dart-school-lab/
 │
 ├─ main.dart           # All Dart code implementing Q1-Q20
 ├─ README.md           # Project description & usage instructions
-├─ screenshots/        # Add screenshots of outputs for each question
+├─ screenshots/        # Screenshots of outputs for each question
 │  ├─ q1.png
 │  ├─ q2.png
 │  └─ ...
-└─ reports/            # Add scanned handwritten report for each question
+└─ reports/            # Scanned handwritten report for each question
    ├─ q1.jpg
    ├─ q2.jpg
    └─ ...
@@ -187,15 +187,15 @@ The system uses **ANSI color codes** for better visual experience:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/<aline-username>">
-        <img src="https://github.com/identicons/<aline-username>.png" width="100px;" alt="Aline NIYONIZERA"/>
+      <a href="https://github.com/<Aline-CROIRE>">
+        <img src="https://github.com/identicons/<Aline-CROIRE>.png" width="100px;" alt="Aline NIYONIZERA"/>
         <br />
         <sub><b>Aline NIYONIZERA</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/<gaetan-username>">
-        <img src="https://github.com/identicons/<gaetan-username>.png" width="100px;" alt="Gaetan UWIZEYIMANA"/>
+      <a href="https://github.com/<GaetanL90>">
+        <img src="https://github.com/identicons/<GaetanL90>.png" width="100px;" alt="Gaetan UWIZEYIMANA"/>
         <br />
         <sub><b>Gaetan UWIZEYIMANA</b></sub>
       </a>
@@ -217,7 +217,7 @@ Permission is hereby granted to use this software for educational purposes only.
 
 ---
 
-## 🌟 Acknowledgments
+## Acknowledgments
 
 - Thanks to our instructors for guidance
 - Dart and Flutter documentation
