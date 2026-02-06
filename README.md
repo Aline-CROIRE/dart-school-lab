@@ -68,7 +68,7 @@ The table below lists each lab question, its implementation in the system, and l
 
 All handwritten summaries for questions Q1-Q20 are compiled in a single PDF document:
 
-**[ Download Complete Scanned Report (PDF)](screenshots/Dart programming lab1 report.pdf)**
+**[ Download Complete Scanned Report (PDF)](screenshots/Dart%20programming%20lab1%20report.pdf)**
 
 ---
 
