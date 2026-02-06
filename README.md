@@ -3,8 +3,6 @@
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
-**Authors:** Aline NIYONIZERA & Gaetan UWIZEYIMANA
-
 ---
 
 ## Table of Contents
@@ -46,13 +44,13 @@ The table below lists each lab question, its implementation in the system, and l
 | Question | Feature / Implementation | Screenshot |
 |:--------:|--------------------------|:----------:|
 | **Q1** | `welcomeMessage()` function displays the welcome message | ![Q1 Screenshot](screenshots/q1.jpeg) |
-| **Q2** | `createStudent()` with named parameters | ![Q2 Screenshot](screenshots/q2.jpeg) |
+| **Q2** | `createStudent()` with named parameters | ![Q2 Screenshot](screenshots/2.jpeg) |
 | **Q3** | `createTeacher()` with optional parameter | ![Q3 Screenshot](screenshots/q3.jpeg) |
 | **Q4** | `Student` class with constructor | ![Q4 Screenshot](screenshots/q4.jpeg) |
 | **Q5** | Create `Student` object & print details | ![Q5 Screenshot](screenshots/q5.jpeg) |
 | **Q6** | `Person` class | ![Q6 Screenshot](screenshots/q6.jpeg) |
 | **Q7** | `StudentPerson` inheritance & `introduce()` | ![Q7 Screenshot](screenshots/q7.jpeg) |
-| **Q8** | `Registrable` interface | ![Q8 Screenshot](screenshots/q8.jpeg) |
+| **Q8** | `Registrable` interface | ![Q8 Screenshot](screenshots/q9.jpeg) |
 | **Q9** | Implement `registerCourse()` in Student | ![Q9 Screenshot](screenshots/q9.jpeg) |
 | **Q10** | `AttendanceMixin` | ![Q10 Screenshot](screenshots/q10.jpeg) |
 | **Q11** | Apply AttendanceMixin & mark attendance | ![Q11 Screenshot](screenshots/q11.jpeg) |
@@ -70,7 +68,7 @@ The table below lists each lab question, its implementation in the system, and l
 
 All handwritten summaries for questions Q1-Q20 are compiled in a single PDF document:
 
-**[ Download Complete Scanned Report (PDF)](screenshots/scanned_report.pdf)**
+**[ Download Complete Scanned Report (PDF)](screenshots/Dart programming lab1 report.pdf)**
 
 ---
 
@@ -217,7 +215,7 @@ Following these steps ensures the project is ready for assessment.
 This project is created for **educational purposes** as part of **Dart Programming Lab 1**.
 
 ```
-Copyright (c) 2024 Aline NIYONIZERA & Gaetan UWIZEYIMANA
+Copyright (c) 2026 Aline NIYONIZERA & Gaetan UWIZEYIMANA
 
 Permission is hereby granted to use this software for educational purposes only.
 ```
