@@ -34,49 +34,41 @@ The system allows users to:
 
 It covers all lab questions (Q1–Q20) with clear examples, proper structure, and an **interactive menu-based UI**.
 
----
-
-##  Features
-
-| Feature | Description |
-|---------|-------------|
-| **Student Management** | Create and manage student records with detailed information |
-| **Teacher Management** | Add teachers with optional parameters |
-| **Attendance Tracking** | Mark and monitor student attendance using mixins |
-| **Course Registration** | Register students to courses with real-time notifications |
-| **Interactive Dashboard** | View all students, their courses, and attendance records |
-| **Async Operations** | Demonstrate asynchronous programming with data loading |
-| **Collections Demo** | Show Lists and Maps usage in Dart |
-| **Functional Programming** | Examples of anonymous and arrow functions |
 
 ---
 
-##  Lab Questions Coverage 
+## 📝 Lab Questions Coverage & Placeholders
 
-The table below lists each lab question, its implementation in the system, and placeholders where screenshots and scanned handwritten summaries should be included.
+The table below lists each lab question, its implementation in the system, and links to screenshots and the scanned handwritten report.
 
-| Question | Feature / Implementation | Screenshot | Handwritten Summary |
-|:--------:|--------------------------|:----------:|:-------------------:|
-| **Q1** | `welcomeMessage()` function displays the welcome message | ![Q1 Screenshot](screenshots/q1.png) | [📄 Scanned Report Q1](reports/q1.jpg) |
-| **Q2** | `createStudent()` with named parameters | ![Q2 Screenshot](screenshots/q2.png) | [📄 Scanned Report Q2](reports/q2.jpg) |
-| **Q3** | `createTeacher()` with optional parameter | ![Q3 Screenshot](screenshots/q3.png) | [📄 Scanned Report Q3](reports/q3.jpg) |
-| **Q4** | `Student` class with constructor | ![Q4 Screenshot](screenshots/q4.png) | [📄 Scanned Report Q4](reports/q4.jpg) |
-| **Q5** | Create `Student` object & print details | ![Q5 Screenshot](screenshots/q5.png) | [📄 Scanned Report Q5](reports/q5.jpg) |
-| **Q6** | `Person` class | ![Q6 Screenshot](screenshots/q6.png) | [📄 Scanned Report Q6](reports/q6.jpg) |
-| **Q7** | `StudentPerson` inheritance & `introduce()` | ![Q7 Screenshot](screenshots/q7.png) | [📄 Scanned Report Q7](reports/q7.jpg) |
-| **Q8** | `Registrable` interface | ![Q8 Screenshot](screenshots/q8.png) | [📄 Scanned Report Q8](reports/q8.jpg) |
-| **Q9** | Implement `registerCourse()` in Student | ![Q9 Screenshot](screenshots/q9.png) | [📄 Scanned Report Q9](reports/q9.jpg) |
-| **Q10** | `AttendanceMixin` | ![Q10 Screenshot](screenshots/q10.png) | [📄 Scanned Report Q10](reports/q10.jpg) |
-| **Q11** | Apply AttendanceMixin & mark attendance | ![Q11 Screenshot](screenshots/q11.png) | [📄 Scanned Report Q11](reports/q11.jpg) |
-| **Q12** | List of Students | ![Q12 Screenshot](screenshots/q12.png) | [📄 Scanned Report Q12](reports/q12.jpg) |
-| **Q13** | Map of Students | ![Q13 Screenshot](screenshots/q13.png) | [📄 Scanned Report Q13](reports/q13.jpg) |
-| **Q14** | Anonymous function demo | ![Q14 Screenshot](screenshots/q14.png) | [📄 Scanned Report Q14](reports/q14.jpg) |
-| **Q15** | Arrow function demo | ![Q15 Screenshot](screenshots/q15.png) | [📄 Scanned Report Q15](reports/q15.jpg) |
-| **Q16** | Async function `loadStudents()` | ![Q16 Screenshot](screenshots/q16.png) | [📄 Scanned Report Q16](reports/q16.jpg) |
-| **Q17** | Await call in `main()` | ![Q17 Screenshot](screenshots/q17.png) | [📄 Scanned Report Q17](reports/q17.jpg) |
-| **Q18** | Handwritten explanation of mixins vs inheritance | N/A | [📄 Scanned Report Q18](reports/q18.jpg) |
-| **Q19** | `NotificationMixin` demo | ![Q19 Screenshot](screenshots/q19.png) | [📄 Scanned Report Q19](reports/q19.jpg) |
-| **Q20** | Handwritten paragraph: Dart & Flutter | N/A | [📄 Scanned Report Q20](reports/q20.jpg) |
+| Question | Feature / Implementation | Screenshot |
+|:--------:|--------------------------|:----------:|
+| **Q1** | `welcomeMessage()` function displays the welcome message | ![Q1 Screenshot](screenshots/q1.jpeg) |
+| **Q2** | `createStudent()` with named parameters | ![Q2 Screenshot](screenshots/q2.jpeg) |
+| **Q3** | `createTeacher()` with optional parameter | ![Q3 Screenshot](screenshoots/q3.jpeg) |
+| **Q4** | `Student` class with constructor | ![Q4 Screenshot](screenshots/q4.jpeg) |
+| **Q5** | Create `Student` object & print details | ![Q5 Screenshot](screenshots/q5.jpeg) |
+| **Q6** | `Person` class | ![Q6 Screenshot](screenshots/q6.jpeg) |
+| **Q7** | `StudentPerson` inheritance & `introduce()` | ![Q7 Screenshot](screenshots/q7.jpeg) |
+| **Q8** | `Registrable` interface | ![Q8 Screenshot](screenshots/q8.jpeg) |
+| **Q9** | Implement `registerCourse()` in Student | ![Q9 Screenshot](screenshots/q9.jpeg) |
+| **Q10** | `AttendanceMixin` | ![Q10 Screenshot](screenshots/q10.jpeg) |
+| **Q11** | Apply AttendanceMixin & mark attendance | ![Q11 Screenshot](screenshots/q11.jpeg) |
+| **Q12** | List of Students | ![Q12 Screenshot](screenshots/q12.jpeg) |
+| **Q13** | Map of Students | ![Q13 Screenshot](screenshots/q13.jpeg) |
+| **Q14** | Anonymous function demo | ![Q14 Screenshot](screenshots/q14.jpeg) |
+| **Q15** | Arrow function demo | ![Q15 Screenshot](screenshots/q15.jpeg) |
+| **Q16** | Async function `loadStudents()` | ![Q16 Screenshot](screenshots/q16.jpeg) |
+| **Q17** | Await call in `main()` | ![Q17 Screenshot](screenshots/q17.jpeg) |
+| **Q18** | Handwritten explanation of mixins vs inheritance | N/A |
+| **Q19** | `NotificationMixin` demo | ![Q19 Screenshot](screenshots/q19.jpeg) |
+| **Q20** | Handwritten paragraph: Dart & Flutter | N/A |
+
+### 📄 Handwritten Reports
+
+All handwritten summaries for questions Q1-Q20 are compiled in a single PDF document:
+
+**[📥 Download Complete Scanned Report (PDF)](screenshots/scanned_report.pdf)**
 
 
 ---
@@ -156,13 +148,10 @@ dart-school-lab/
 ├─ main.dart           # All Dart code implementing Q1-Q20
 ├─ README.md           # Project description & usage instructions
 ├─ screenshots/        # Screenshots of outputs for each question
-│  ├─ q1.png
-│  ├─ q2.png
-│  └─ ...
-└─ reports/            # Scanned handwritten report for each question
-   ├─ q1.jpg
-   ├─ q2.jpg
-   └─ ...
+  ├─ q1.png
+  ├─ q2.png
+  └─ ...
+
 ```
 
 ---
@@ -182,7 +171,7 @@ The system uses **ANSI color codes** for better visual experience:
 
 
 
-## 👥 Authors
+##  Authors
 
 <table>
   <tr>
