@@ -51,7 +51,7 @@ It covers all lab questions (Q1–Q20) with clear examples, proper structure, an
 
 ---
 
-##  Lab Questions Coverage & Placeholders
+##  Lab Questions Coverage 
 
 The table below lists each lab question, its implementation in the system, and placeholders where screenshots and scanned handwritten summaries should be included.
 
