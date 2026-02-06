@@ -43,8 +43,8 @@ The table below lists each lab question, its implementation in the system, and l
 
 | Question | Feature / Implementation | Screenshot |
 |:--------:|--------------------------|:----------:|
-| **Q1** | `welcomeMessage()` function displays the welcome message | ![Q1 Screenshot](screenshoots/q1.jpeg) |
-| **Q2** | `createStudent()` with named parameters | ![Q2 Screenshot](screenshoots/q2.jpeg) |
+| **Q1** | `welcomeMessage()` function displays the welcome message | ![Q1 Screenshot](screenshots/q1.jpeg) |
+| **Q2** | `createStudent()` with named parameters | ![Q2 Screenshot](screenshots/q2.jpeg) |
 | **Q3** | `createTeacher()` with optional parameter | ![Q3 Screenshot](screenshoots/q3.jpeg) |
 | **Q4** | `Student` class with constructor | ![Q4 Screenshot](screenshots/q4.jpeg) |
 | **Q5** | Create `Student` object & print details | ![Q5 Screenshot](screenshots/q5.jpeg) |
